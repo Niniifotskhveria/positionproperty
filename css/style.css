@@ -1,0 +1,25 @@
+.container{
+    width: 1088px;
+}
+.logo{
+    float: left;
+    vertical-align: middle;
+    margin: 0 119px 23px 140px;
+}
+.nav{
+    float: right;
+    vertical-align: middle;
+    height: 23px;
+    margin: 0px 300px 49px 0;
+}
+.nav-li{
+    float: left;
+    margin-left: 25px;
+  
+}
+.fashion{
+    width: 1360px;
+}
+.clear{
+    clear: both;
+}
