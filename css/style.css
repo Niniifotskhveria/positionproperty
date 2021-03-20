@@ -1,25 +1,130 @@
 .container{
-    width: 1088px;
+    width: 1324px;
+    margin-left:auto;
+    margin-right:auto;
 }
 .logo{
     float: left;
-    vertical-align: middle;
-    margin: 0 119px 23px 140px;
+    margin: 15px 119px 23px 140px;
 }
 .nav{
     float: right;
-    vertical-align: middle;
-    height: 23px;
-    margin: 0px 300px 49px 0;
+    margin: 50px 550px 49px  0;
 }
 .nav-li{
     float: left;
     margin-left: 25px;
-  
 }
 .fashion{
-    width: 1360px;
+    width: 1350px;
+   
 }
 .clear{
     clear: both;
+}
+.wraper{
+    position: fixed;
+    top:0;
+    left: 0;
+    width: 100%;
+    background-color:white;
+}
+.body{ 
+    padding-top: 250px;
+}
+.h2{
+    margin: 84px 1200px 81px 172px;
+    width: 138px;
+    color: #FF7A00;
+}
+/* section1 styles */
+.bag{
+    float: left;
+    width: 500px;
+    margin-right: 10px;
+    margin-left: 125px;
+}
+.chair{
+    float: left;
+    width: 500px;
+    
+}
+.prgph{
+    font-family: 'Playfair Display', serif;
+    font-size: 32px;
+    margin: 20px 0px 22px 130px;
+}
+.div{
+    width: 50px;
+    height: 20px;
+    color: #FF7A00;
+    margin: 40px;
+}
+
+.prgph1{
+    font-size: 16px;
+    color:#7B7B7B;
+    margin: 22px 0px 13px 130px;
+   
+}
+.test{
+    width: 550px;
+    float: left;
+    /* margin-right: 100px; */
+    
+    
+}
+.h1{
+    color: #FF7A00;
+    margin: 13px 18px 57px 130px;
+}
+.test1{
+    width: 550px;
+    float: left;
+    margin-left: 100px;
+
+}
+.prgph3{
+    font-size: 16px;
+    color:#7B7B7B;
+    margin: 22px 52px 13px 0;
+}
+.prgph2{
+    font-family: 'Playfair Display', serif;
+    font-size: 32px;
+    margin: 20px 52px 22px 0;
+}
+.h3{
+    color: #FF7A00;
+    margin: 13px 18px 57px 0px;
+}
+
+.div1{
+    width: 1350px;
+    height: 266px;
+    background-color: black;
+}
+.box1{
+    float: left;
+    margin-left: 125px;
+}
+/* .box2{
+    float: left;
+}
+.box3{
+    float: left;
+}
+.box4{
+    float: left;
+} */
+.nav-a{
+    margin-bottom: 5px;
+}
+.title{
+    margin-bottom: 15px;
+    margin-top: 82px;
+}
+.empty{
+    width: 1350px;
+    height: 500px;
 }
